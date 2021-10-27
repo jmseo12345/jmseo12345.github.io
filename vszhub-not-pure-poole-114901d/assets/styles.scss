@@ -1,7 +1,4 @@
----
-# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
-# only main files contain this front matter, not partials.
----
+
 
 //
 //                        ___
@@ -28,7 +25,7 @@
 @import "home-header";
 @import "pagination";
 @import "message";
-@import "toc";
+// @import "toc";
 @import "alignment";
 
 @import "syntax-light";
